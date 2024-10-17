@@ -14,7 +14,7 @@ icon.smdh
           ├── levelname.txt
           ├── level.dat
           ├── level.dat_old
-          ├── db\
+          └── db\
               ├── savemarker
               ├── vdb\
               |    ├── newindex.vdb
